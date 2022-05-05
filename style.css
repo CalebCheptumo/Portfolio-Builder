@@ -5,3 +5,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+:root{
+    /*font*/
+    font-size: 10px;
+
+    /*color*/
+    /*abrreviation meaning*/
+    /*m = modify*/
+    /*l = light*/
+    /*d = dark*/
+
+    --color-primary: hsl(232,15%,19%);
+    --color-primary-m-l: hsl(231.15%,19%,0.55);
+    --color-primary-m-d:hsl(231,15%,19%,0.85)
+
+}
