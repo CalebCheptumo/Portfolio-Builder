@@ -16,7 +16,19 @@
     /*d = dark*/
 
     --color-primary: hsl(232,15%,19%);
-    --color-primary-m-l: hsl(231.15%,19%,0.55);
-    --color-primary-m-d:hsl(231,15%,19%,0.85)
+    --color-primary-m-l: hsla(231,15%,19%,0.55);
+    --color-primary-m-d:hsla(231,15%,19%,0.85);
+
+    --color-secondary:rgb(255,170,6);
+    --color-secondary-m-l: rgba(255,170,6,0.55);
+    --color-secondary-m-d:rgba(255,170,6,0.85);
+
+    --color-tertiary: #1a508b;
+    --color-tertiary-m-l:hsla(211,68%,32%,0.55);
+    --color-tertiary-m-d: hsla(211,68%,32%,0.85);
+
+    --color-quaternary: rgb(231,231,230);
+    --color-quaternary: rgba(231,231,230,0.55);
+    --color-quaternary-m-d: rgba(231,231,230,0.58);
 
 }
