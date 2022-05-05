@@ -31,4 +31,17 @@
     --color-quaternary: rgba(231,231,230,0.55);
     --color-quaternary-m-d: rgba(231,231,230,0.58);
 
+    /*padding*/
+    /*
+    xl = extra large
+    l  = large
+    m  = medium
+    s  = small
+    
+    */
+
+    --padding-xl: calc(2rem + 6vh) calc(2rem + 6vw);
+    --padding-l: calc(3rem + 4vh) calc(3rem + 4vw);
+    --padding-m: calc(2rem + 2vh) calc(2rem + 2vw);
+    --padding-s: calc(1rem + 1vh) calc(1rem + 1vw);
 }
