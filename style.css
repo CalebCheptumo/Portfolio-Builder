@@ -74,4 +74,16 @@ body{
     grid-template-columns: [container-start] 1fr [center-start] repeat(10, 
     [col-start] minmax(min-content,11rem) [col-end]) 
     [center-end] 1fr [container-end];
+
+    grid-template-rows:repeat(6, min-content);
+    background-color: var(--color-primary);
+}
+
+a{
+    text-decoration: none;
+    color: var(--color-quaternary);
+}
+
+li{
+    list-style: none;
 }
