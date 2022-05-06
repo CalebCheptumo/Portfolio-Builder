@@ -64,3 +64,8 @@
     --font-family-sub: "Poppins" , sans-serif;
 
 }
+
+body{
+    font-family: var(--font-family-sub);
+    line-height: 1.5;
+}
