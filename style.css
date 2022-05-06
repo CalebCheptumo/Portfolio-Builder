@@ -87,3 +87,61 @@ a{
 li{
     list-style: none;
 }
+
+/*header*/
+#main-header {
+    height: 250px;
+    
+    background-color: var(--color-secondary);
+
+    grid-column: center-start / center-end;
+}
+
+/*hero*/
+.hero{
+    height: 400px;
+    
+    background-color: var(--color-tertiary);
+
+    grid-column: center-start / center-end;
+}
+
+
+/*features*/
+.features{
+    height: 400px;
+    
+    background-color: var(--color-quaternary);
+
+    grid-column: center-start / center-end;
+}
+
+
+/*diversify*/
+.diversify{
+    height: 400px;
+    
+    background-color: var(--color-secondary);
+
+    grid-column: center-start / center-end;
+}
+
+
+/*testimonials*/
+.testimonials{
+    height: 400px;
+    
+    background-color: var(--color-tertiary);
+
+    grid-column: center-start / center-end;
+}
+
+
+/*footer*/
+#footer{
+    height: 400px;
+    
+    background-color: var(--color-quaternary);
+
+    grid-column: center-start / center-end;
+}
