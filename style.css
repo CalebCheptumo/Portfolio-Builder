@@ -44,4 +44,18 @@
     --padding-l: calc(3rem + 4vh) calc(3rem + 4vw);
     --padding-m: calc(2rem + 2vh) calc(2rem + 2vw);
     --padding-s: calc(1rem + 1vh) calc(1rem + 1vw);
+
+    /*font size*/
+    /*
+    l  = large
+    m  = medium
+    s  = small
+    xs = extra small
+    */
+
+
+    --font-size-l: calc(1.5rem + 2vw);
+    --font-size-m: calc(1rem + 1.5vw);
+    --font-size-s: calc(1rem + 1vw);
+    --font-size-xs: calc(0.5rem + 0.8vw)
 }
