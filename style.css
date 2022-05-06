@@ -69,3 +69,7 @@ body{
     font-family: var(--font-family-sub);
     line-height: 1.5;
 }
+.container{
+    display: grid;
+    grid-template-columns: auto;
+}
