@@ -57,5 +57,10 @@
     --font-size-l: calc(1.5rem + 2vw);
     --font-size-m: calc(1rem + 1.5vw);
     --font-size-s: calc(1rem + 1vw);
-    --font-size-xs: calc(0.5rem + 0.8vw)
+    --font-size-xs: calc(0.5rem + 0.8vw);
+
+    /*font family*/
+    --font-family-main: "Fredoka" , sans-serif;
+    --font-family-sub: "Poppins" , sans-serif;
+
 }
