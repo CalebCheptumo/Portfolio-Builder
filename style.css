@@ -143,5 +143,5 @@ li{
     
     background-color: var(--color-quaternary);
 
-    grid-column: center-start / center-end;
+    grid-column: container-start / center-end;
 }
